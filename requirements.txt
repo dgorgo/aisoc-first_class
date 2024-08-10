@@ -1,0 +1,4 @@
+groq
+fastapi[all]
+uvicorn
+python-dotenv
