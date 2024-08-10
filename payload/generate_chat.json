@@ -1,6 +1,5 @@
 {
-    "passphrase": "its_all_connect_@_123",
-    "robot": "sterling_alpha_model",
-    "ticker": "GBPUSD",
-    "trade_type": "CloseBuy"
+    "model": "llama-3.1-70b-versatile",
+    "question": "Which is bigger, 9.11 or 9.9",
+    "temperature": 0
 }
